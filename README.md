@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hashika Chathubhashaka
 - 👀 I’m interested in Programing...
-- 🌱 I’m currently learning python, java and web development..
+- 🌱 I’m currently learning python, C++ and C.
 - 💞️ 
 - 📫 How to reach me  HashikaChathubhashaka@gmail.com
 
