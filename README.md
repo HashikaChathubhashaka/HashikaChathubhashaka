@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hashika Chathubhashaka
 - 👀 I’m interested in Electronics,Robotics and Emberded systerms.
-- 🌱 I’m currently learning C,C++ and Python.
+- 🌱 I’m currently learning C,C++ and linux.
 - 💞️ Always love to learn new things and Discover them.
-- 📫 How to reach me  HashikaChathubhashaka@gmail.com
+- 📫 How to reach me  -->  HashikaChathubhashaka@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashikachathubhashaka&label=Profile%20views&color=0e75b6&style=flat" alt="hashikachathubhashaka" /> </p>
 
