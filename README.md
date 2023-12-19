@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hashika Chathubhashaka
 - 👀 I’m interested in Electronics,Robotics and Emberded systerms.
-- 🌱 I’m currently learning python,C++ and linux.
+- 🌱 I’m currently learning ROS2,python,C++ and linux.
 - 💞️ Always love to learn new things and Discover them.
 - 📫 How to reach me  -->  HashikaChathubhashaka@gmail.com
 
