@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Hashika Chathubhashaka
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey!+👋;+I'm+Hashika+Chathubhashaka!;" />
+</h1>
+
 - 👀 I’m interested in Electronics,Robotics and Emberded systerms.
 - 🌱 I’m currently learning ROS2,python,C++ and linux.
 - 💞️ Always love to learn new things and Discover them.
