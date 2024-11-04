@@ -2,6 +2,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey!+👋;+I'm+Hashika+Chathubhashaka!;" />
 </h1>
 
+
+
+![Static Badge](https://img.shields.io/badge/Hashika_Chathubhashaka-blue)
+
+
+
+
+
 - 👀 I’m interested in Electronics,Robotics and Emberded systerms.
 - 🌱 I’m currently learning ROS2,python,C++ and linux.
 - 💞️ Always love to learn new things and Discover them.
