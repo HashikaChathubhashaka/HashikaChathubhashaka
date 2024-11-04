@@ -1,12 +1,17 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey!+👋;+I'm+Hashika+Chathubhashaka!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey!+👋" />
 </h1>
 
 
+<h1 align="center"> I'm Hashika Chathubhashaka</h1>
 
-![Static Badge](https://img.shields.io/badge/Hashika_Chathubhashaka-blue)
 
+<div align="center">
+    
 
+  ![Static Badge](https://img.shields.io/badge/HC-blue)
+  
+</div>
 
 
 
