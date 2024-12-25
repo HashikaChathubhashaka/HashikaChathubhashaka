@@ -5,15 +5,14 @@
 
 <h1 align="center"> I'm Hashika Chathubhashaka</h1>
 
-
+<!-- 
 <div align="center">
     
 
   ![Static Badge](https://img.shields.io/badge/HC-blue)
   
 </div>
-
-
+ -->
 
 - 👀 I’m interested in Electronics,Robotics and Emberded systerms.
 - 🌱 I’m currently learning ROS2,python,C++ and linux.
