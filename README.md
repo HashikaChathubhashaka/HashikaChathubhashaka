@@ -16,12 +16,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashikachathubhashaka&label=Profile%20views&color=0e75b6&style=flat" alt="hashikachathubhashaka" /> </p>
 
 
-<div align="center">
+<div align="left">
 
-👀 I’m interested in Electronics, Robotics, and Embedded Systems.  
- 🌱 I’m currently learning ROS2, Python, C++, and Linux.  
- 💞️ Always love to learn new things and discover them.  
- 📫 How to reach me --> HashikaChathubhashaka@gmail.com  
+- 👀 I’m interested in Electronics, Robotics, and Embedded Systems.  
+- 🌱 I’m currently learning ROS2, Python, C++, and Linux.  
+- 💞️ Always love to learn new things and discover them.  
+- 📫 How to reach me --> HashikaChathubhashaka@gmail.com  
 
 </div>
 
