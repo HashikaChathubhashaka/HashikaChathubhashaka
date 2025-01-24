@@ -18,7 +18,7 @@
 
 <div align="center">
 
-👀 I’m interested in Electronics, Robotics, and Embedded Systems.  
+👀 I’m interested in Firmware Delevopment and Robotics.
 🌱 I’m currently learning  C++, Python, Linux and STM32.  
 💞️ Always love to learn new things and discover them.  
 📫 How to reach me --> HashikaChathubhashaka@gmail.com  
