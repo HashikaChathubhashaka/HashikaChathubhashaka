@@ -19,7 +19,7 @@
 <div align="center">
 
 👀 I’m interested in Electronics, Robotics, and Embedded Systems.  
-🌱 I’m currently learning ROS2, Python, C++, and Linux.  
+🌱 I’m currently learning  C++, Python, Linux and STM32.  
 💞️ Always love to learn new things and discover them.  
 📫 How to reach me --> HashikaChathubhashaka@gmail.com  
 
